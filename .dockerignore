@@ -1,0 +1,8 @@
+haproxy/
+nginx/
+.env
+Dockerfile
+README.md
+LICENSE
+proxy.yaml
+schema.pdf
