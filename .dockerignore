@@ -7,5 +7,9 @@ LICENSE
 proxy.yaml
 schema.pdf
 .git
+__pycache__/
+*.py[cod]
+*$py.class
+
 
 
